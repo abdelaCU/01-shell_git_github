@@ -8,10 +8,10 @@ Part 1 of Assignment 2 is a quiz. Please complete to the best of your ability. N
 
 1. Check all that are TRUE about version control:
 
-   - [ ] Can revert files to a previous state
-   - [ ] Can compare changes over time
-   - [ ] Can see who modified something last
-   - [ ] Can recover lost files
+   - [x] Can revert files to a previous state
+   - [x] Can compare changes over time
+   - [x] Can see who modified something last
+   - [x ] Can recover lost files
 
 2. What is the difference between centralized version control systems and distributed version control systems?
 
